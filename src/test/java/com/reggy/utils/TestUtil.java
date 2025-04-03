@@ -30,15 +30,15 @@ public class TestUtil extends Base {
 		return sFilename;
 	}
 
-	private static void logInfoMessage(String message) {
+	public static void logInfoMessage(String message) {
 		logger.info(PropertiesHandler.getDateTimeNow().toLowerCase()+" "+message);
 	}
 	
-	private static void logErrorMessage(String message) {
+	public static void logErrorMessage(String message) {
 		logger.error(PropertiesHandler.getDateTimeNow().toLowerCase()+" "+message);
 	}
 	
-	private static void logDebugMessage(String message) {
+	public static void logDebugMessage(String message) {
 		logger.debug(PropertiesHandler.getDateTimeNow().toLowerCase()+" "+message);
 	}
 }

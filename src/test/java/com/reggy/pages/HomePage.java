@@ -12,7 +12,6 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.reggy.Base;
 import com.reggy.utils.PageUtils;
-import com.reggy.utils.PropertiesHandler;
 
 
 
@@ -36,19 +35,6 @@ public class HomePage extends Base{
 	@FindBy(name = "my-range") private WebElement RangeInput;
 	
 
-
-
-
-
-
-
-
-	
-
-	
-	
-
-
 	PageUtils pageUtils = new PageUtils();
 	
 	WebDriver driver;
@@ -71,7 +57,7 @@ public class HomePage extends Base{
 
     // Get the current value from the range input
     public String getRangeValue() {
-        return RangeInput.getAttribute("value");
+        return RangeInput.getAttribute(getRangeValue());
     }
 	
 	
@@ -115,15 +101,31 @@ public class HomePage extends Base{
 		return pageUtils.getTextFieldContents(TextArea);
 	}
 	
-	private static void logInfoMessage(String message) {
-		logger.info(PropertiesHandler.getDateTimeNow().toLowerCase()+" "+message);
+	public String getTextFromDisabledInputField() {
+		return pageUtils.getTextFieldContents(DisabledInput);
 	}
 	
-	private static void logErrorMessage(String message) {
-		logger.error(PropertiesHandler.getDateTimeNow().toLowerCase()+" "+message);
+	public boolean isDisabledInputEnabled() {
+		return pageUtils.isElementEnabled(DisabledInput);
 	}
 	
-	private static void logDebugMessage(String message) {
-		logger.debug(PropertiesHandler.getDateTimeNow().toLowerCase()+" "+message);
+	public boolean isDisabledInputDisplayed() {
+		return pageUtils.isElementDisplayed(DisabledInput);
+	}
+	
+	public boolean isReadOnlyFieldDisplayed() {
+		return pageUtils.isElementDisplayed(ReadOnlyInput);
+	}
+	
+	public boolean isReadOnlyFieldEnabled() {
+		return pageUtils.isElementEnabled(ReadOnlyInput);
+	}
+	
+	public String getTextFromReadOnlyField() {
+		return pageUtils.getTextFieldContents(ReadOnlyInput);
+	}
+	
+	public void close() {
+		Base.closeBrowser();
 	}
 }

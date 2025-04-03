@@ -1,22 +1,17 @@
 package com.reggy.tests;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
 import org.testng.AssertJUnit;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import com.reggy.pages.HomePage;
-import com.reggy.utils.PropertiesHandler;
 
 
 @Listeners(com.reggy.utils.TestListener.class)
 public class HomePageTests {
 	
 	
-	private static final Logger logger = LogManager.getLogger(HomePageTests.class);
+	//private static final Logger logger = LogManager.getLogger(HomePageTests.class);
 
 	HomePage homePage = new HomePage();
 	
@@ -55,15 +50,44 @@ public class HomePageTests {
 		AssertJUnit.assertEquals(input, actualResults);
 	}
 	
-	private static void logInfoMessage(String message) {
-		logger.info(PropertiesHandler.getDateTimeNow().toLowerCase()+" "+message);
+	@Test(priority=5)
+	public void checkThatDisabledInputFieldIsDisabled() {
+		boolean expectedResults = false;
+		boolean actualResults = homePage.isDisabledInputEnabled();
+		AssertJUnit.assertEquals(expectedResults, actualResults);
 	}
 	
-	private static void logErrorMessage(String message) {
-		logger.error(PropertiesHandler.getDateTimeNow().toLowerCase()+" "+message);
+	@Test(priority=6)
+	public void checkThatICantReadFromDisabledInput() {
+		boolean expectedResults = true;
+		boolean actualResults;
+		if(homePage.getTextFromDisabledInputField().isEmpty()) {
+			actualResults = true;
+		}
+		else {
+			actualResults = false;
+		}
+		AssertJUnit.assertEquals(expectedResults, actualResults);
 	}
 	
-	private static void logDebugMessage(String message) {
-		logger.debug(PropertiesHandler.getDateTimeNow().toLowerCase()+" "+message);
+	@Test(priority=7)
+	public void checkThatReadOnlyFieldIsDisabled() {
+		boolean expectedResults = false;
+		boolean actualResults = homePage.isDisabledInputEnabled();
+		AssertJUnit.assertEquals(expectedResults, actualResults);
 	}
+	
+	@Test(priority=8)
+	public void checkThatICanReadFromReadOnlyField() {
+		boolean expectedResults = true;
+		boolean actualResults;
+		if(!homePage.getTextFromReadOnlyField().isEmpty()) {
+			actualResults = true;
+		}
+		else {
+			actualResults = false;
+		}
+		AssertJUnit.assertEquals(expectedResults, actualResults);
+	}
+	
 }

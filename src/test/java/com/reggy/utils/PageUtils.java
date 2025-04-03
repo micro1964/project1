@@ -41,7 +41,19 @@ public class PageUtils {
 		return sText;
 	}
 	
+	public boolean isElementEnabled(WebElement wElement) {
+		waitForElementToBeVisible(wElement,TestUtil.TIMEOUT_IN_SECONDS,TestUtil.POLLING_IN_MILLISECONDS);
+		boolean results = wElement.isEnabled();
+		logInfoMessage("Is this element enabled: "+results);
+		return results;
+	}
 	
+	public boolean isElementDisplayed(WebElement wElement) {
+		waitForElementToBeVisible(wElement,TestUtil.TIMEOUT_IN_SECONDS,TestUtil.POLLING_IN_MILLISECONDS);
+		boolean results = wElement.isDisplayed();
+		logInfoMessage("Is this element displayed: "+results);
+		return results;
+	}
 	
 	public void waitForElementToBeVisible(WebElement element, int timeoutInSeconds, int pollingInMillis) {
 		logInfoMessage("Waiting for WebElement "+element.getAccessibleName());
@@ -52,6 +64,8 @@ public class PageUtils {
         
         wait.until(driver -> element.isDisplayed());
     }
+	
+	
 	
 	private static void logInfoMessage(String message) {
 		logger.info(PropertiesHandler.getDateTimeNow().toLowerCase()+" "+message);
