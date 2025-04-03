@@ -1,0 +1,163 @@
+2025-04-02 21:57:44 [main] INFO  Base - 21_57_44_2_4_2025 Setting up Extent Reports on:- 21_57_44_2_4_2025
+2025-04-02 21:57:52 [main] ERROR Base - 21_57_52_2_4_2025 Unable to obtain: Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}
+2025-04-03 01:26:19 [main] INFO  Base - 1_26_19_3_4_2025 Setting up Extent Reports on:- 1_26_19_3_4_2025
+2025-04-03 01:26:22 [main] ERROR Base - 1_26_22_3_4_2025 Unable to obtain: Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}
+2025-04-03 01:30:03 [main] INFO  Base - 1_30_3_3_4_2025 Setting up Extent Reports on:- 1_30_3_3_4_2025
+2025-04-03 01:30:06 [main] ERROR Base - 1_30_6_3_4_2025 Unable to obtain: Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}
+2025-04-03 01:37:28 [main] ERROR Base - 1_37_28_3_4_2025 Unable to obtain: Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}
+2025-04-03 01:38:23 [main] ERROR Base - 1_38_23_3_4_2025 Unable to obtain: Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}
+2025-04-03 01:49:22 [main] INFO  Base - 1_49_22_3_4_2025 Setting up Extent Reports on:- 1_49_22_3_4_2025
+2025-04-03 01:49:25 [main] ERROR Base - 1_49_25_3_4_2025 Unable to obtain: Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, start-maximized], extensions: []}}
+2025-04-03 01:52:05 [main] INFO  Base - 1_52_5_3_4_2025 Setting up Extent Reports on:- 1_52_5_3_4_2025
+2025-04-03 01:52:06 [main] ERROR Base - 1_52_6_3_4_2025 Unable to obtain: Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, start-maximized], extensions: []}}
+2025-04-03 01:58:12 [main] INFO  Base - 1_58_12_3_4_2025 Setting up Extent Reports on:- 1_58_12_3_4_2025
+2025-04-03 01:58:57 [main] INFO  Base - 1_58_57_3_4_2025 Setting up Extent Reports on:- 1_58_57_3_4_2025
+2025-04-03 01:59:00 [main] INFO  Base - 1_59_0_3_4_2025 Chrome Driver is selected.
+2025-04-03 01:59:05 [main] INFO  Base - 1_59_5_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 01:59:06 [main] INFO  HomePage - 1_59_6_3_4_2025 Retrieving the browser title
+2025-04-03 01:59:06 [main] INFO  PageUtils - 1_59_6_3_4_2025 Waiting for WebElement Text input
+2025-04-03 01:59:07 [main] INFO  PageUtils - 1_59_7_3_4_2025 Populating Textfield: sampletext
+2025-04-03 01:59:07 [main] INFO  PageUtils - 1_59_7_3_4_2025 Waiting for WebElement Text input
+2025-04-03 01:59:07 [main] INFO  PageUtils - 1_59_7_3_4_2025 Contents of Textfield: 
+2025-04-03 01:59:07 [main] INFO  TestUtil - 1_59_7_3_4_2025 Screenshot taken
+2025-04-03 01:59:08 [main] INFO  Base - 1_59_8_3_4_2025 Cleaning Extent Reports resources on:- 1_59_8_3_4_2025
+2025-04-03 01:59:08 [main] INFO  Base - 1_59_8_3_4_2025 Window handles: - 1
+2025-04-03 01:59:09 [main] INFO  Base - 1_59_9_3_4_2025 Closing Browser!!!
+2025-04-03 02:06:47 [main] INFO  Base - 2_6_47_3_4_2025 Setting up Extent Reports on:- 2_6_47_3_4_2025
+2025-04-03 02:06:50 [main] INFO  Base - 2_6_50_3_4_2025 Chrome Driver is selected.
+2025-04-03 02:06:55 [main] INFO  Base - 2_6_55_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 02:06:55 [main] INFO  HomePage - 2_6_55_3_4_2025 Retrieving the browser title
+2025-04-03 02:06:55 [main] INFO  PageUtils - 2_6_55_3_4_2025 Waiting for WebElement Text input
+2025-04-03 02:06:56 [main] INFO  PageUtils - 2_6_56_3_4_2025 Populating Textfield: sampletext
+2025-04-03 02:06:56 [main] INFO  PageUtils - 2_6_56_3_4_2025 Waiting for WebElement Text input
+2025-04-03 02:06:56 [main] INFO  PageUtils - 2_6_56_3_4_2025 Contents of Textfield: 
+2025-04-03 02:06:56 [main] INFO  TestUtil - 2_6_56_3_4_2025 Screenshot taken
+2025-04-03 02:06:57 [main] INFO  Base - 2_6_57_3_4_2025 Cleaning Extent Reports resources on:- 2_6_57_3_4_2025
+2025-04-03 02:06:57 [main] INFO  Base - 2_6_57_3_4_2025 Window handles: - 1
+2025-04-03 02:06:57 [main] INFO  Base - 2_6_57_3_4_2025 Closing Browser!!!
+2025-04-03 02:13:09 [main] INFO  Base - 2_13_9_3_4_2025 Setting up Extent Reports on:- 2_13_9_3_4_2025
+2025-04-03 02:13:13 [main] INFO  Base - 2_13_13_3_4_2025 Chrome Driver is selected.
+2025-04-03 02:13:22 [main] INFO  Base - 2_13_22_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 02:13:22 [main] INFO  HomePage - 2_13_22_3_4_2025 Retrieving the browser title
+2025-04-03 02:13:23 [main] INFO  PageUtils - 2_13_23_3_4_2025 Waiting for WebElement Text input
+2025-04-03 02:13:23 [main] INFO  PageUtils - 2_13_23_3_4_2025 Populating Textfield: sampletext
+2025-04-03 02:13:23 [main] INFO  PageUtils - 2_13_23_3_4_2025 Waiting for WebElement Text input
+2025-04-03 02:13:23 [main] INFO  TestUtil - 2_13_23_3_4_2025 Screenshot taken
+2025-04-03 02:13:24 [main] INFO  Base - 2_13_24_3_4_2025 Cleaning Extent Reports resources on:- 2_13_24_3_4_2025
+2025-04-03 02:13:24 [main] INFO  Base - 2_13_24_3_4_2025 Window handles: - 1
+2025-04-03 02:13:25 [main] INFO  Base - 2_13_25_3_4_2025 Closing Browser!!!
+2025-04-03 02:17:30 [main] INFO  Base - 2_17_30_3_4_2025 Setting up Extent Reports on:- 2_17_30_3_4_2025
+2025-04-03 02:17:33 [main] INFO  Base - 2_17_33_3_4_2025 Chrome Driver is selected.
+2025-04-03 02:17:39 [main] INFO  Base - 2_17_39_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 02:17:39 [main] INFO  HomePage - 2_17_39_3_4_2025 Retrieving the browser title
+2025-04-03 02:17:39 [main] INFO  PageUtils - 2_17_39_3_4_2025 Waiting for WebElement Text input
+2025-04-03 02:17:39 [main] INFO  PageUtils - 2_17_39_3_4_2025 Populating Textfield: sampletext
+2025-04-03 02:17:39 [main] INFO  PageUtils - 2_17_39_3_4_2025 Waiting for WebElement Text input
+2025-04-03 02:17:40 [main] INFO  TestUtil - 2_17_40_3_4_2025 Screenshot taken
+2025-04-03 02:17:40 [main] INFO  Base - 2_17_40_3_4_2025 Cleaning Extent Reports resources on:- 2_17_40_3_4_2025
+2025-04-03 02:17:40 [main] INFO  Base - 2_17_40_3_4_2025 Window handles: - 1
+2025-04-03 02:17:41 [main] INFO  Base - 2_17_41_3_4_2025 Closing Browser!!!
+2025-04-03 02:21:28 [main] INFO  Base - 2_21_28_3_4_2025 Setting up Extent Reports on:- 2_21_28_3_4_2025
+2025-04-03 02:21:31 [main] INFO  Base - 2_21_31_3_4_2025 Chrome Driver is selected.
+2025-04-03 02:21:36 [main] INFO  Base - 2_21_36_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 02:21:36 [main] INFO  HomePage - 2_21_36_3_4_2025 Retrieving the browser title
+2025-04-03 02:21:36 [main] INFO  PageUtils - 2_21_36_3_4_2025 Waiting for WebElement Text input
+2025-04-03 02:21:37 [main] INFO  PageUtils - 2_21_37_3_4_2025 Populating Textfield: sampletext
+2025-04-03 02:21:37 [main] INFO  PageUtils - 2_21_37_3_4_2025 Waiting for WebElement Text input
+2025-04-03 02:21:37 [main] INFO  PageUtils - 2_21_37_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 02:21:37 [main] INFO  Base - 2_21_37_3_4_2025 Cleaning Extent Reports resources on:- 2_21_37_3_4_2025
+2025-04-03 02:21:37 [main] INFO  Base - 2_21_37_3_4_2025 Window handles: - 1
+2025-04-03 02:21:38 [main] INFO  Base - 2_21_38_3_4_2025 Closing Browser!!!
+2025-04-03 02:24:23 [main] INFO  Base - 2_24_23_3_4_2025 Setting up Extent Reports on:- 2_24_23_3_4_2025
+2025-04-03 02:24:26 [main] INFO  Base - 2_24_26_3_4_2025 Chrome Driver is selected.
+2025-04-03 02:24:31 [main] INFO  Base - 2_24_31_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 02:24:31 [main] INFO  HomePage - 2_24_31_3_4_2025 Retrieving the browser title
+2025-04-03 02:24:31 [main] INFO  PageUtils - 2_24_31_3_4_2025 Waiting for WebElement Text input
+2025-04-03 02:24:32 [main] INFO  PageUtils - 2_24_32_3_4_2025 Populating Textfield: sampletext
+2025-04-03 02:24:32 [main] INFO  PageUtils - 2_24_32_3_4_2025 Waiting for WebElement Text input
+2025-04-03 02:24:32 [main] INFO  PageUtils - 2_24_32_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 02:24:32 [main] INFO  Base - 2_24_32_3_4_2025 Cleaning Extent Reports resources on:- 2_24_32_3_4_2025
+2025-04-03 02:24:33 [main] INFO  Base - 2_24_33_3_4_2025 Closing Browser!!!
+2025-04-03 03:06:03 [main] INFO  Base - 3_6_3_3_4_2025 Setting up Extent Reports on:- 3_6_3_3_4_2025
+2025-04-03 03:06:07 [main] INFO  Base - 3_6_7_3_4_2025 Chrome Driver is selected.
+2025-04-03 03:06:11 [main] INFO  Base - 3_6_11_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 03:06:11 [main] INFO  HomePage - 3_6_11_3_4_2025 Retrieving the browser title
+2025-04-03 03:06:11 [main] INFO  PageUtils - 3_6_11_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:06:12 [main] INFO  PageUtils - 3_6_12_3_4_2025 Populating Textfield: sampletext
+2025-04-03 03:06:12 [main] INFO  PageUtils - 3_6_12_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:06:12 [main] INFO  PageUtils - 3_6_12_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 03:06:13 [main] INFO  Base - 3_6_13_3_4_2025 Cleaning Extent Reports resources on:- 3_6_13_3_4_2025
+2025-04-03 03:06:13 [main] INFO  Base - 3_6_13_3_4_2025 Closing Browser!!!
+2025-04-03 03:07:12 [main] INFO  Base - 3_7_12_3_4_2025 Setting up Extent Reports on:- 3_7_12_3_4_2025
+2025-04-03 03:07:15 [main] INFO  Base - 3_7_15_3_4_2025 Chrome Driver is selected.
+2025-04-03 03:07:19 [main] INFO  Base - 3_7_19_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 03:07:19 [main] INFO  HomePage - 3_7_19_3_4_2025 Retrieving the browser title
+2025-04-03 03:07:19 [main] INFO  PageUtils - 3_7_19_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:07:19 [main] INFO  PageUtils - 3_7_19_3_4_2025 Populating Textfield: sampletext
+2025-04-03 03:07:19 [main] INFO  PageUtils - 3_7_19_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:07:19 [main] INFO  PageUtils - 3_7_19_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 03:07:19 [main] INFO  PageUtils - 3_7_19_3_4_2025 Waiting for WebElement Password
+2025-04-03 03:07:19 [main] INFO  PageUtils - 3_7_19_3_4_2025 Populating Textfield: password
+2025-04-03 03:07:19 [main] INFO  PageUtils - 3_7_19_3_4_2025 Waiting for WebElement Password
+2025-04-03 03:07:20 [main] INFO  PageUtils - 3_7_20_3_4_2025 Contents of Textfield: password
+2025-04-03 03:07:20 [main] INFO  Base - 3_7_20_3_4_2025 Cleaning Extent Reports resources on:- 3_7_20_3_4_2025
+2025-04-03 03:07:21 [main] INFO  Base - 3_7_21_3_4_2025 Closing Browser!!!
+2025-04-03 03:09:31 [main] INFO  Base - 3_9_31_3_4_2025 Setting up Extent Reports on:- 3_9_31_3_4_2025
+2025-04-03 03:09:33 [main] INFO  Base - 3_9_33_3_4_2025 Chrome Driver is selected.
+2025-04-03 03:09:38 [main] INFO  Base - 3_9_38_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 03:09:38 [main] INFO  HomePage - 3_9_38_3_4_2025 Retrieving the browser title
+2025-04-03 03:09:38 [main] INFO  PageUtils - 3_9_38_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:09:39 [main] INFO  PageUtils - 3_9_39_3_4_2025 Populating Textfield: sampletext
+2025-04-03 03:09:39 [main] INFO  PageUtils - 3_9_39_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:09:39 [main] INFO  PageUtils - 3_9_39_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 03:09:39 [main] INFO  PageUtils - 3_9_39_3_4_2025 Waiting for WebElement Password
+2025-04-03 03:09:39 [main] INFO  PageUtils - 3_9_39_3_4_2025 Populating Textfield: password
+2025-04-03 03:09:39 [main] INFO  PageUtils - 3_9_39_3_4_2025 Waiting for WebElement Password
+2025-04-03 03:09:39 [main] INFO  PageUtils - 3_9_39_3_4_2025 Contents of Textfield: password
+2025-04-03 03:09:40 [main] INFO  Base - 3_9_40_3_4_2025 Cleaning Extent Reports resources on:- 3_9_40_3_4_2025
+2025-04-03 03:10:43 [main] INFO  Base - 3_10_43_3_4_2025 Setting up Extent Reports on:- 3_10_43_3_4_2025
+2025-04-03 03:10:46 [main] INFO  Base - 3_10_46_3_4_2025 Chrome Driver is selected.
+2025-04-03 03:10:50 [main] INFO  Base - 3_10_50_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 03:10:50 [main] INFO  HomePage - 3_10_50_3_4_2025 Retrieving the browser title
+2025-04-03 03:10:50 [main] INFO  PageUtils - 3_10_50_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:10:50 [main] INFO  PageUtils - 3_10_50_3_4_2025 Populating Textfield: sampletext
+2025-04-03 03:10:50 [main] INFO  PageUtils - 3_10_50_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:10:50 [main] INFO  PageUtils - 3_10_50_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 03:10:50 [main] INFO  PageUtils - 3_10_50_3_4_2025 Waiting for WebElement Password
+2025-04-03 03:10:51 [main] INFO  PageUtils - 3_10_51_3_4_2025 Populating Textfield: password
+2025-04-03 03:10:51 [main] INFO  PageUtils - 3_10_51_3_4_2025 Waiting for WebElement Password
+2025-04-03 03:10:51 [main] INFO  PageUtils - 3_10_51_3_4_2025 Contents of Textfield: password
+2025-04-03 03:10:51 [main] INFO  Base - 3_10_51_3_4_2025 Cleaning Extent Reports resources on:- 3_10_51_3_4_2025
+2025-04-03 03:10:52 [main] INFO  Base - 3_10_52_3_4_2025 Closing Browser!!!
+2025-04-03 03:11:12 [main] INFO  Base - 3_11_12_3_4_2025 Setting up Extent Reports on:- 3_11_12_3_4_2025
+2025-04-03 03:11:14 [main] INFO  Base - 3_11_14_3_4_2025 Chrome Driver is selected.
+2025-04-03 03:11:18 [main] INFO  Base - 3_11_18_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 03:11:19 [main] INFO  HomePage - 3_11_19_3_4_2025 Retrieving the browser title
+2025-04-03 03:11:19 [main] INFO  PageUtils - 3_11_19_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:11:19 [main] INFO  PageUtils - 3_11_19_3_4_2025 Populating Textfield: sampletext
+2025-04-03 03:11:19 [main] INFO  PageUtils - 3_11_19_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:11:19 [main] INFO  PageUtils - 3_11_19_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 03:11:19 [main] INFO  PageUtils - 3_11_19_3_4_2025 Waiting for WebElement Password
+2025-04-03 03:11:19 [main] INFO  PageUtils - 3_11_19_3_4_2025 Populating Textfield: password
+2025-04-03 03:11:19 [main] INFO  PageUtils - 3_11_19_3_4_2025 Waiting for WebElement Password
+2025-04-03 03:11:19 [main] INFO  PageUtils - 3_11_19_3_4_2025 Contents of Textfield: password
+2025-04-03 03:11:20 [main] INFO  Base - 3_11_20_3_4_2025 Cleaning Extent Reports resources on:- 3_11_20_3_4_2025
+2025-04-03 03:11:20 [main] INFO  Base - 3_11_20_3_4_2025 Closing Browser!!!
+2025-04-03 03:16:10 [main] INFO  Base - 3_16_10_3_4_2025 Setting up Extent Reports on:- 3_16_10_3_4_2025
+2025-04-03 03:16:14 [main] INFO  Base - 3_16_14_3_4_2025 Chrome Driver is selected.
+2025-04-03 03:16:17 [main] INFO  Base - 3_16_17_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 03:16:17 [main] INFO  HomePage - 3_16_17_3_4_2025 Retrieving the browser title
+2025-04-03 03:16:17 [main] INFO  PageUtils - 3_16_17_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:16:17 [main] INFO  PageUtils - 3_16_17_3_4_2025 Populating Textfield: sampletext
+2025-04-03 03:16:17 [main] INFO  PageUtils - 3_16_17_3_4_2025 Waiting for WebElement Text input
+2025-04-03 03:16:18 [main] INFO  PageUtils - 3_16_18_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 03:16:18 [main] INFO  PageUtils - 3_16_18_3_4_2025 Waiting for WebElement Password
+2025-04-03 03:16:18 [main] INFO  PageUtils - 3_16_18_3_4_2025 Populating Textfield: password
+2025-04-03 03:16:18 [main] INFO  PageUtils - 3_16_18_3_4_2025 Waiting for WebElement Password
+2025-04-03 03:16:18 [main] INFO  PageUtils - 3_16_18_3_4_2025 Contents of Textfield: password
+2025-04-03 03:16:18 [main] INFO  PageUtils - 3_16_18_3_4_2025 Waiting for WebElement Textarea
+2025-04-03 03:16:18 [main] INFO  PageUtils - 3_16_18_3_4_2025 Populating Textfield: random text
+2025-04-03 03:16:18 [main] INFO  PageUtils - 3_16_18_3_4_2025 Waiting for WebElement Textarea
+2025-04-03 03:16:18 [main] INFO  PageUtils - 3_16_18_3_4_2025 Contents of Textfield: random text
+2025-04-03 03:16:19 [main] INFO  Base - 3_16_19_3_4_2025 Cleaning Extent Reports resources on:- 3_16_19_3_4_2025
+2025-04-03 03:16:20 [main] INFO  Base - 3_16_20_3_4_2025 Closing Browser!!!
