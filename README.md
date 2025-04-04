@@ -31,5 +31,7 @@ To Dos: -
 Please watch the video the demonstrates a brief walk through of the provided artefacts. And shows how to execute the tests.
 
 https://drive.google.com/file/d/1-ktj4HrLLbv2qmPMmQ9giU3N1gw42ymr/view?usp=sharing
+or
+https://1drv.ms/v/c/6e667244aec000ca/EWRRQsA_IjNOifmoBVb4WhQBelomwM3q-Skn31sDuQdMzA 
 
 Thanks – https://www.reggywilliams.com
