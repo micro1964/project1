@@ -10,6 +10,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.FluentWait;
+import org.openqa.selenium.support.ui.Select;
 
 import com.reggy.Base;
 
@@ -23,9 +24,24 @@ public class PageUtils {
 	private static final Logger logger = LogManager.getLogger(PageUtils.class);
 	
 	
+	public String getSelectedOptionFromDropdownList(WebElement wElement) {
+		waitForElementToBeVisible(wElement,TestUtil.TIMEOUT_IN_SECONDS,TestUtil.POLLING_IN_MILLISECONDS);
+	    Select select = new Select(wElement);
+	    String strSelected = select.getFirstSelectedOption().getText();
+	    logInfoMessage("The selected item from the dropdown list is: "+strSelected);
+	    return strSelected;
+	}
+	
+	public void selectDropdownListItemByVisibleText(WebElement wElement,String strItem) {
+		waitForElementToBeVisible(wElement,TestUtil.TIMEOUT_IN_SECONDS,TestUtil.POLLING_IN_MILLISECONDS);
+		Select select = new Select(wElement);
+        select.selectByVisibleText(strItem);
+        logInfoMessage(strItem+" - Selected from Dropdown List");
+	}
 	
 	public void setTextField(WebElement wElement, String strEntry) {
 		waitForElementToBeVisible(wElement,TestUtil.TIMEOUT_IN_SECONDS,TestUtil.POLLING_IN_MILLISECONDS);
+		wElement.clear();
 		wElement.sendKeys(strEntry);
 		wElement.sendKeys(Keys.TAB);
 		logInfoMessage("Populating Textfield: "+strEntry);

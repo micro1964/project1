@@ -9,6 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.Select;
 
 import com.reggy.Base;
 import com.reggy.utils.PageUtils;
@@ -47,6 +48,14 @@ public class HomePage extends Base{
 		logDebugMessage("PageFactory initialised on HomePage.");
 	}
 	
+	
+	public void selectByVisibleText(String visibleText) {
+        pageUtils.selectDropdownListItemByVisibleText(DropdownList, visibleText);
+    }
+
+	public String getSelectedOption() {
+		return pageUtils.getSelectedOptionFromDropdownList(DropdownList);
+	}
 	
     // Set the range input value using JavaScript (e.g., set to value '7')
     public void setRangeValueUsingJS(int value) {

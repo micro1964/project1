@@ -104,3 +104,354 @@
 2025-04-03 23:26:47 [main] INFO  Base - 23_26_47_3_4_2025 Closing Browser!!!
 2025-04-03 23:26:47 [main] INFO  Base - 23_26_47_3_4_2025 Closing Browser...
 2025-04-03 23:26:47 [main] INFO  Base - 23_26_47_3_4_2025 After All: Test execution completed.
+2025-04-03 23:40:39 [main] INFO  Base - 23_40_39_3_4_2025 Setting up Extent Reports on:- 23_40_39_3_4_2025
+2025-04-03 23:40:45 [main] INFO  Base - 23_40_45_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:40:51 [main] INFO  Base - 23_40_51_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:40:51 [main] INFO  Base - 23_40_51_3_4_2025 Retrieving the browser title
+2025-04-03 23:40:52 [main] INFO  PageUtils - 23_40_52_3_4_2025 Waiting for WebElement Text input
+2025-04-03 23:40:52 [main] INFO  PageUtils - 23_40_52_3_4_2025 Populating Textfield: sampletext
+2025-04-03 23:40:52 [main] INFO  PageUtils - 23_40_52_3_4_2025 Waiting for WebElement Text input
+2025-04-03 23:40:52 [main] INFO  PageUtils - 23_40_52_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 23:40:52 [main] INFO  Base - 23_40_52_3_4_2025 Window handles: - 1
+2025-04-03 23:40:53 [main] INFO  Base - 23_40_53_3_4_2025 Closing Browser!!!
+2025-04-03 23:40:53 [main] INFO  Base - 23_40_53_3_4_2025 Setting up Extent Reports on:- 23_40_53_3_4_2025
+2025-04-03 23:40:56 [main] INFO  Base - 23_40_56_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:40:59 [main] INFO  Base - 23_40_59_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:40:59 [main] INFO  Base - 23_40_59_3_4_2025 Retrieving the browser title
+2025-04-03 23:40:59 [main] INFO  PageUtils - 23_40_59_3_4_2025 Waiting for WebElement Password
+2025-04-03 23:41:00 [main] INFO  PageUtils - 23_41_0_3_4_2025 Populating Textfield: sampletext
+2025-04-03 23:41:00 [main] INFO  PageUtils - 23_41_0_3_4_2025 Waiting for WebElement Password
+2025-04-03 23:41:00 [main] INFO  PageUtils - 23_41_0_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 23:41:00 [main] INFO  Base - 23_41_0_3_4_2025 Window handles: - 1
+2025-04-03 23:41:00 [main] INFO  Base - 23_41_0_3_4_2025 Closing Browser!!!
+2025-04-03 23:41:00 [main] INFO  Base - 23_41_0_3_4_2025 Setting up Extent Reports on:- 23_41_0_3_4_2025
+2025-04-03 23:41:03 [main] INFO  Base - 23_41_3_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:41:11 [main] INFO  Base - 23_41_11_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:41:11 [main] INFO  Base - 23_41_11_3_4_2025 Retrieving the browser title
+2025-04-03 23:41:11 [main] INFO  PageUtils - 23_41_11_3_4_2025 Waiting for WebElement Textarea
+2025-04-03 23:41:12 [main] INFO  PageUtils - 23_41_12_3_4_2025 Populating Textfield: random text
+2025-04-03 23:41:12 [main] INFO  PageUtils - 23_41_12_3_4_2025 Waiting for WebElement Textarea
+2025-04-03 23:41:12 [main] INFO  PageUtils - 23_41_12_3_4_2025 Contents of Textfield: random text
+2025-04-03 23:41:12 [main] INFO  Base - 23_41_12_3_4_2025 Window handles: - 1
+2025-04-03 23:41:14 [main] INFO  Base - 23_41_14_3_4_2025 Closing Browser!!!
+2025-04-03 23:41:14 [main] INFO  Base - 23_41_14_3_4_2025 Setting up Extent Reports on:- 23_41_14_3_4_2025
+2025-04-03 23:41:16 [main] INFO  Base - 23_41_16_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:41:20 [main] INFO  Base - 23_41_20_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:41:20 [main] INFO  Base - 23_41_20_3_4_2025 Retrieving the browser title
+2025-04-03 23:41:20 [main] INFO  PageUtils - 23_41_20_3_4_2025 Waiting for WebElement Disabled input
+2025-04-03 23:41:20 [main] INFO  PageUtils - 23_41_20_3_4_2025 Is this element displayed: true
+2025-04-03 23:41:20 [main] INFO  PageUtils - 23_41_20_3_4_2025 Waiting for WebElement Disabled input
+2025-04-03 23:41:20 [main] INFO  PageUtils - 23_41_20_3_4_2025 Is this element enabled: false
+2025-04-03 23:41:21 [main] INFO  PageUtils - 23_41_21_3_4_2025 Waiting for WebElement Disabled input
+2025-04-03 23:41:21 [main] INFO  PageUtils - 23_41_21_3_4_2025 Contents of Textfield: 
+2025-04-03 23:41:21 [main] INFO  Base - 23_41_21_3_4_2025 Window handles: - 1
+2025-04-03 23:41:21 [main] INFO  Base - 23_41_21_3_4_2025 Closing Browser!!!
+2025-04-03 23:41:21 [main] INFO  Base - 23_41_21_3_4_2025 Setting up Extent Reports on:- 23_41_21_3_4_2025
+2025-04-03 23:41:24 [main] INFO  Base - 23_41_24_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:41:28 [main] INFO  Base - 23_41_28_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:41:28 [main] INFO  Base - 23_41_28_3_4_2025 Retrieving the browser title
+2025-04-03 23:41:28 [main] INFO  PageUtils - 23_41_28_3_4_2025 Waiting for WebElement Readonly input
+2025-04-03 23:41:28 [main] INFO  PageUtils - 23_41_28_3_4_2025 Is this element displayed: true
+2025-04-03 23:41:28 [main] INFO  PageUtils - 23_41_28_3_4_2025 Waiting for WebElement Readonly input
+2025-04-03 23:41:28 [main] INFO  PageUtils - 23_41_28_3_4_2025 Is this element enabled: true
+2025-04-03 23:41:29 [main] INFO  Base - 23_41_29_3_4_2025 Window handles: - 1
+2025-04-03 23:41:30 [main] INFO  Base - 23_41_30_3_4_2025 Closing Browser!!!
+2025-04-03 23:41:30 [main] INFO  Base - 23_41_30_3_4_2025 Closing Browser...
+2025-04-03 23:41:30 [main] INFO  Base - 23_41_30_3_4_2025 After All: Test execution completed.
+2025-04-03 23:51:36 [main] INFO  Base - 23_51_36_3_4_2025 Setting up Extent Reports on:- 23_51_36_3_4_2025
+2025-04-03 23:51:44 [main] INFO  Base - 23_51_44_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:51:59 [main] INFO  Base - 23_51_59_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:52:00 [main] INFO  Base - 23_52_0_3_4_2025 Retrieving the browser title
+2025-04-03 23:52:00 [main] INFO  PageUtils - 23_52_0_3_4_2025 Waiting for WebElement Text input
+2025-04-03 23:52:00 [main] INFO  PageUtils - 23_52_0_3_4_2025 Populating Textfield: sampletext
+2025-04-03 23:52:00 [main] INFO  PageUtils - 23_52_0_3_4_2025 Waiting for WebElement Text input
+2025-04-03 23:52:01 [main] INFO  PageUtils - 23_52_1_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 23:52:01 [main] INFO  Base - 23_52_1_3_4_2025 Window handles: - 1
+2025-04-03 23:52:04 [main] INFO  Base - 23_52_4_3_4_2025 Closing Browser!!!
+2025-04-03 23:52:04 [main] INFO  Base - 23_52_4_3_4_2025 Setting up Extent Reports on:- 23_52_4_3_4_2025
+2025-04-03 23:52:09 [main] INFO  Base - 23_52_9_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:52:13 [main] INFO  Base - 23_52_13_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:52:13 [main] INFO  Base - 23_52_13_3_4_2025 Retrieving the browser title
+2025-04-03 23:52:13 [main] INFO  PageUtils - 23_52_13_3_4_2025 Waiting for WebElement Password
+2025-04-03 23:52:13 [main] INFO  PageUtils - 23_52_13_3_4_2025 Populating Textfield: sampletext
+2025-04-03 23:52:13 [main] INFO  PageUtils - 23_52_13_3_4_2025 Waiting for WebElement Password
+2025-04-03 23:52:14 [main] INFO  PageUtils - 23_52_14_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 23:52:14 [main] INFO  Base - 23_52_14_3_4_2025 Window handles: - 1
+2025-04-03 23:52:14 [main] INFO  Base - 23_52_14_3_4_2025 Closing Browser!!!
+2025-04-03 23:52:14 [main] INFO  Base - 23_52_14_3_4_2025 Setting up Extent Reports on:- 23_52_14_3_4_2025
+2025-04-03 23:52:18 [main] INFO  Base - 23_52_18_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:52:22 [main] INFO  Base - 23_52_22_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:52:22 [main] INFO  Base - 23_52_22_3_4_2025 Retrieving the browser title
+2025-04-03 23:52:22 [main] INFO  PageUtils - 23_52_22_3_4_2025 Waiting for WebElement Textarea
+2025-04-03 23:52:23 [main] INFO  PageUtils - 23_52_23_3_4_2025 Populating Textfield: random text
+2025-04-03 23:52:23 [main] INFO  PageUtils - 23_52_23_3_4_2025 Waiting for WebElement Textarea
+2025-04-03 23:52:23 [main] INFO  PageUtils - 23_52_23_3_4_2025 Contents of Textfield: random text
+2025-04-03 23:52:23 [main] INFO  Base - 23_52_23_3_4_2025 Window handles: - 1
+2025-04-03 23:52:23 [main] INFO  Base - 23_52_23_3_4_2025 Closing Browser!!!
+2025-04-03 23:52:23 [main] INFO  Base - 23_52_23_3_4_2025 Setting up Extent Reports on:- 23_52_23_3_4_2025
+2025-04-03 23:52:27 [main] INFO  Base - 23_52_27_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:52:31 [main] INFO  Base - 23_52_31_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:52:31 [main] INFO  Base - 23_52_31_3_4_2025 Retrieving the browser title
+2025-04-03 23:52:31 [main] INFO  PageUtils - 23_52_31_3_4_2025 Waiting for WebElement Disabled input
+2025-04-03 23:52:31 [main] INFO  PageUtils - 23_52_31_3_4_2025 Is this element displayed: true
+2025-04-03 23:52:31 [main] INFO  PageUtils - 23_52_31_3_4_2025 Waiting for WebElement Disabled input
+2025-04-03 23:52:31 [main] INFO  PageUtils - 23_52_31_3_4_2025 Is this element enabled: false
+2025-04-03 23:52:32 [main] INFO  PageUtils - 23_52_32_3_4_2025 Waiting for WebElement Disabled input
+2025-04-03 23:52:32 [main] INFO  PageUtils - 23_52_32_3_4_2025 Contents of Textfield: 
+2025-04-03 23:52:32 [main] INFO  Base - 23_52_32_3_4_2025 Window handles: - 1
+2025-04-03 23:52:33 [main] INFO  Base - 23_52_33_3_4_2025 Closing Browser!!!
+2025-04-03 23:52:33 [main] INFO  Base - 23_52_33_3_4_2025 Setting up Extent Reports on:- 23_52_33_3_4_2025
+2025-04-03 23:52:37 [main] INFO  Base - 23_52_37_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:52:44 [main] INFO  Base - 23_52_44_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:52:44 [main] INFO  Base - 23_52_44_3_4_2025 Retrieving the browser title
+2025-04-03 23:52:44 [main] INFO  PageUtils - 23_52_44_3_4_2025 Waiting for WebElement Readonly input
+2025-04-03 23:52:45 [main] INFO  PageUtils - 23_52_45_3_4_2025 Is this element displayed: true
+2025-04-03 23:52:45 [main] INFO  PageUtils - 23_52_45_3_4_2025 Waiting for WebElement Readonly input
+2025-04-03 23:52:45 [main] INFO  PageUtils - 23_52_45_3_4_2025 Is this element enabled: true
+2025-04-03 23:52:45 [main] INFO  Base - 23_52_45_3_4_2025 Window handles: - 1
+2025-04-03 23:52:46 [main] INFO  Base - 23_52_46_3_4_2025 Closing Browser!!!
+2025-04-03 23:52:46 [main] INFO  Base - 23_52_46_3_4_2025 Closing Browser...
+2025-04-03 23:52:46 [main] INFO  Base - 23_52_46_3_4_2025 After All: Test execution completed.
+2025-04-03 23:54:15 [main] INFO  Base - 23_54_15_3_4_2025 Setting up Extent Reports on:- 23_54_15_3_4_2025
+2025-04-03 23:54:22 [main] INFO  Base - 23_54_22_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:54:28 [main] INFO  Base - 23_54_28_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:54:28 [main] INFO  Base - 23_54_28_3_4_2025 Retrieving the browser title
+2025-04-03 23:54:28 [main] INFO  PageUtils - 23_54_28_3_4_2025 Waiting for WebElement Text input
+2025-04-03 23:54:29 [main] INFO  PageUtils - 23_54_29_3_4_2025 Populating Textfield: sampletext
+2025-04-03 23:54:29 [main] INFO  PageUtils - 23_54_29_3_4_2025 Waiting for WebElement Text input
+2025-04-03 23:54:29 [main] INFO  PageUtils - 23_54_29_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 23:54:29 [main] INFO  Base - 23_54_29_3_4_2025 Window handles: - 1
+2025-04-03 23:54:30 [main] INFO  Base - 23_54_30_3_4_2025 Closing Browser!!!
+2025-04-03 23:54:30 [main] INFO  Base - 23_54_30_3_4_2025 Setting up Extent Reports on:- 23_54_30_3_4_2025
+2025-04-03 23:54:35 [main] INFO  Base - 23_54_35_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:54:48 [main] INFO  Base - 23_54_48_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:54:48 [main] INFO  Base - 23_54_48_3_4_2025 Retrieving the browser title
+2025-04-03 23:54:48 [main] INFO  PageUtils - 23_54_48_3_4_2025 Waiting for WebElement Password
+2025-04-03 23:54:48 [main] INFO  PageUtils - 23_54_48_3_4_2025 Populating Textfield: sampletext
+2025-04-03 23:54:48 [main] INFO  PageUtils - 23_54_48_3_4_2025 Waiting for WebElement Password
+2025-04-03 23:54:49 [main] INFO  PageUtils - 23_54_49_3_4_2025 Contents of Textfield: sampletext
+2025-04-03 23:54:49 [main] INFO  Base - 23_54_49_3_4_2025 Window handles: - 1
+2025-04-03 23:54:50 [main] INFO  Base - 23_54_50_3_4_2025 Closing Browser!!!
+2025-04-03 23:54:50 [main] INFO  Base - 23_54_50_3_4_2025 Setting up Extent Reports on:- 23_54_50_3_4_2025
+2025-04-03 23:54:55 [main] INFO  Base - 23_54_55_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:55:01 [main] INFO  Base - 23_55_1_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:55:01 [main] INFO  Base - 23_55_1_3_4_2025 Retrieving the browser title
+2025-04-03 23:55:01 [main] INFO  PageUtils - 23_55_1_3_4_2025 Waiting for WebElement Textarea
+2025-04-03 23:55:02 [main] INFO  PageUtils - 23_55_2_3_4_2025 Populating Textfield: random text
+2025-04-03 23:55:02 [main] INFO  PageUtils - 23_55_2_3_4_2025 Waiting for WebElement Textarea
+2025-04-03 23:55:02 [main] INFO  PageUtils - 23_55_2_3_4_2025 Contents of Textfield: random text
+2025-04-03 23:55:02 [main] INFO  Base - 23_55_2_3_4_2025 Window handles: - 1
+2025-04-03 23:55:03 [main] INFO  Base - 23_55_3_3_4_2025 Closing Browser!!!
+2025-04-03 23:55:03 [main] INFO  Base - 23_55_3_3_4_2025 Setting up Extent Reports on:- 23_55_3_3_4_2025
+2025-04-03 23:55:08 [main] INFO  Base - 23_55_8_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:55:14 [main] INFO  Base - 23_55_14_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:55:14 [main] INFO  Base - 23_55_14_3_4_2025 Retrieving the browser title
+2025-04-03 23:55:14 [main] INFO  PageUtils - 23_55_14_3_4_2025 Waiting for WebElement Disabled input
+2025-04-03 23:55:14 [main] INFO  PageUtils - 23_55_14_3_4_2025 Is this element displayed: true
+2025-04-03 23:55:14 [main] INFO  PageUtils - 23_55_14_3_4_2025 Waiting for WebElement Disabled input
+2025-04-03 23:55:14 [main] INFO  PageUtils - 23_55_14_3_4_2025 Is this element enabled: false
+2025-04-03 23:55:14 [main] INFO  PageUtils - 23_55_14_3_4_2025 Waiting for WebElement Disabled input
+2025-04-03 23:55:14 [main] INFO  PageUtils - 23_55_14_3_4_2025 Contents of Textfield: 
+2025-04-03 23:55:14 [main] INFO  Base - 23_55_14_3_4_2025 Window handles: - 1
+2025-04-03 23:55:16 [main] INFO  Base - 23_55_16_3_4_2025 Closing Browser!!!
+2025-04-03 23:55:16 [main] INFO  Base - 23_55_16_3_4_2025 Setting up Extent Reports on:- 23_55_16_3_4_2025
+2025-04-03 23:55:19 [main] INFO  Base - 23_55_19_3_4_2025 Chrome Driver is selected.
+2025-04-03 23:55:23 [main] INFO  Base - 23_55_23_3_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-03 23:55:23 [main] INFO  Base - 23_55_23_3_4_2025 Retrieving the browser title
+2025-04-03 23:55:23 [main] INFO  PageUtils - 23_55_23_3_4_2025 Waiting for WebElement Readonly input
+2025-04-03 23:55:23 [main] INFO  PageUtils - 23_55_23_3_4_2025 Is this element displayed: true
+2025-04-03 23:55:23 [main] INFO  PageUtils - 23_55_23_3_4_2025 Waiting for WebElement Readonly input
+2025-04-03 23:55:23 [main] INFO  PageUtils - 23_55_23_3_4_2025 Is this element enabled: true
+2025-04-03 23:55:24 [main] INFO  Base - 23_55_24_3_4_2025 Window handles: - 1
+2025-04-03 23:55:25 [main] INFO  Base - 23_55_25_3_4_2025 Closing Browser!!!
+2025-04-03 23:55:25 [main] INFO  Base - 23_55_25_3_4_2025 Closing Browser...
+2025-04-03 23:55:25 [main] INFO  Base - 23_55_25_3_4_2025 After All: Test execution completed.
+2025-04-04 00:29:01 [main] INFO  Base - 0_29_1_4_4_2025 Setting up Extent Reports on:- 0_29_1_4_4_2025
+2025-04-04 00:29:06 [main] INFO  Base - 0_29_6_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:29:09 [main] INFO  Base - 0_29_9_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:29:09 [main] INFO  Base - 0_29_9_4_4_2025 Retrieving the browser title
+2025-04-04 00:29:09 [main] INFO  PageUtils - 0_29_9_4_4_2025 Waiting for WebElement Text input
+2025-04-04 00:29:10 [main] INFO  PageUtils - 0_29_10_4_4_2025 Populating Textfield: sampletext
+2025-04-04 00:29:10 [main] INFO  PageUtils - 0_29_10_4_4_2025 Waiting for WebElement Text input
+2025-04-04 00:29:10 [main] INFO  PageUtils - 0_29_10_4_4_2025 Contents of Textfield: sampletext
+2025-04-04 00:29:10 [main] INFO  Base - 0_29_10_4_4_2025 Window handles: - 1
+2025-04-04 00:29:14 [main] INFO  Base - 0_29_14_4_4_2025 Closing Browser!!!
+2025-04-04 00:29:14 [main] INFO  Base - 0_29_14_4_4_2025 Setting up Extent Reports on:- 0_29_14_4_4_2025
+2025-04-04 00:29:19 [main] INFO  Base - 0_29_19_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:29:24 [main] INFO  Base - 0_29_24_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:29:24 [main] INFO  Base - 0_29_24_4_4_2025 Retrieving the browser title
+2025-04-04 00:29:24 [main] INFO  PageUtils - 0_29_24_4_4_2025 Waiting for WebElement Password
+2025-04-04 00:29:25 [main] INFO  PageUtils - 0_29_25_4_4_2025 Populating Textfield: sampletext
+2025-04-04 00:29:25 [main] INFO  PageUtils - 0_29_25_4_4_2025 Waiting for WebElement Password
+2025-04-04 00:29:25 [main] INFO  PageUtils - 0_29_25_4_4_2025 Contents of Textfield: sampletext
+2025-04-04 00:29:25 [main] INFO  Base - 0_29_25_4_4_2025 Window handles: - 1
+2025-04-04 00:29:26 [main] INFO  Base - 0_29_26_4_4_2025 Closing Browser!!!
+2025-04-04 00:29:26 [main] INFO  Base - 0_29_26_4_4_2025 Setting up Extent Reports on:- 0_29_26_4_4_2025
+2025-04-04 00:29:29 [main] INFO  Base - 0_29_29_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:29:33 [main] INFO  Base - 0_29_33_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:29:33 [main] INFO  Base - 0_29_33_4_4_2025 Retrieving the browser title
+2025-04-04 00:29:33 [main] INFO  PageUtils - 0_29_33_4_4_2025 Waiting for WebElement Textarea
+2025-04-04 00:29:34 [main] INFO  PageUtils - 0_29_34_4_4_2025 Populating Textfield: random text
+2025-04-04 00:29:34 [main] INFO  PageUtils - 0_29_34_4_4_2025 Waiting for WebElement Textarea
+2025-04-04 00:29:34 [main] INFO  PageUtils - 0_29_34_4_4_2025 Contents of Textfield: random text
+2025-04-04 00:29:34 [main] INFO  Base - 0_29_34_4_4_2025 Window handles: - 1
+2025-04-04 00:29:35 [main] INFO  Base - 0_29_35_4_4_2025 Closing Browser!!!
+2025-04-04 00:29:35 [main] INFO  Base - 0_29_35_4_4_2025 Setting up Extent Reports on:- 0_29_35_4_4_2025
+2025-04-04 00:29:38 [main] INFO  Base - 0_29_38_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:29:43 [main] INFO  Base - 0_29_43_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:29:43 [main] INFO  Base - 0_29_43_4_4_2025 Retrieving the browser title
+2025-04-04 00:29:43 [main] INFO  PageUtils - 0_29_43_4_4_2025 Waiting for WebElement Disabled input
+2025-04-04 00:29:43 [main] INFO  PageUtils - 0_29_43_4_4_2025 Is this element displayed: true
+2025-04-04 00:29:43 [main] INFO  PageUtils - 0_29_43_4_4_2025 Waiting for WebElement Disabled input
+2025-04-04 00:29:43 [main] INFO  PageUtils - 0_29_43_4_4_2025 Is this element enabled: false
+2025-04-04 00:29:43 [main] INFO  PageUtils - 0_29_43_4_4_2025 Waiting for WebElement Disabled input
+2025-04-04 00:29:43 [main] INFO  PageUtils - 0_29_43_4_4_2025 Contents of Textfield: 
+2025-04-04 00:29:43 [main] INFO  Base - 0_29_43_4_4_2025 Window handles: - 1
+2025-04-04 00:29:44 [main] INFO  Base - 0_29_44_4_4_2025 Closing Browser!!!
+2025-04-04 00:29:44 [main] INFO  Base - 0_29_44_4_4_2025 Setting up Extent Reports on:- 0_29_44_4_4_2025
+2025-04-04 00:29:46 [main] INFO  Base - 0_29_46_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:29:50 [main] INFO  Base - 0_29_50_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:29:50 [main] INFO  Base - 0_29_50_4_4_2025 Retrieving the browser title
+2025-04-04 00:29:50 [main] INFO  PageUtils - 0_29_50_4_4_2025 Waiting for WebElement Readonly input
+2025-04-04 00:29:50 [main] INFO  PageUtils - 0_29_50_4_4_2025 Is this element displayed: true
+2025-04-04 00:29:50 [main] INFO  PageUtils - 0_29_50_4_4_2025 Waiting for WebElement Readonly input
+2025-04-04 00:29:51 [main] INFO  PageUtils - 0_29_51_4_4_2025 Is this element enabled: true
+2025-04-04 00:29:51 [main] INFO  Base - 0_29_51_4_4_2025 Window handles: - 1
+2025-04-04 00:29:51 [main] INFO  Base - 0_29_51_4_4_2025 Closing Browser!!!
+2025-04-04 00:29:51 [main] INFO  Base - 0_29_51_4_4_2025 Closing Browser...
+2025-04-04 00:29:52 [main] INFO  Base - 0_29_52_4_4_2025 Setting up Extent Reports on:- 0_29_52_4_4_2025
+2025-04-04 00:29:55 [main] INFO  Base - 0_29_55_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:29:59 [main] INFO  Base - 0_29_59_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:29:59 [main] INFO  Base - 0_29_59_4_4_2025 Retrieving the browser title
+2025-04-04 00:29:59 [main] INFO  Base - 0_29_59_4_4_2025 After All: Test execution completed.
+2025-04-04 00:29:59 [main] INFO  Base - 0_29_59_4_4_2025 Window handles: - 1
+2025-04-04 00:30:00 [main] INFO  Base - 0_30_0_4_4_2025 Closing Browser!!!
+2025-04-04 00:30:00 [main] INFO  Base - 0_30_0_4_4_2025 Closing Browser...
+2025-04-04 00:39:11 [main] INFO  Base - 0_39_11_4_4_2025 Setting up Extent Reports on:- 0_39_11_4_4_2025
+2025-04-04 00:39:15 [main] INFO  Base - 0_39_15_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:39:19 [main] INFO  Base - 0_39_19_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:39:19 [main] INFO  Base - 0_39_19_4_4_2025 Retrieving the browser title
+2025-04-04 00:39:19 [main] INFO  PageUtils - 0_39_19_4_4_2025 Waiting for WebElement Text input
+2025-04-04 00:39:20 [main] INFO  PageUtils - 0_39_20_4_4_2025 Populating Textfield: sampletext
+2025-04-04 00:39:20 [main] INFO  PageUtils - 0_39_20_4_4_2025 Waiting for WebElement Text input
+2025-04-04 00:39:20 [main] INFO  PageUtils - 0_39_20_4_4_2025 Contents of Textfield: sampletext
+2025-04-04 00:39:20 [main] INFO  Base - 0_39_20_4_4_2025 Window handles: - 1
+2025-04-04 00:39:21 [main] INFO  Base - 0_39_21_4_4_2025 Closing Browser!!!
+2025-04-04 00:39:21 [main] INFO  Base - 0_39_21_4_4_2025 Setting up Extent Reports on:- 0_39_21_4_4_2025
+2025-04-04 00:39:24 [main] INFO  Base - 0_39_24_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:39:27 [main] INFO  Base - 0_39_27_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:39:27 [main] INFO  Base - 0_39_27_4_4_2025 Retrieving the browser title
+2025-04-04 00:39:28 [main] INFO  PageUtils - 0_39_28_4_4_2025 Waiting for WebElement Password
+2025-04-04 00:39:28 [main] INFO  PageUtils - 0_39_28_4_4_2025 Populating Textfield: sampletext
+2025-04-04 00:39:28 [main] INFO  PageUtils - 0_39_28_4_4_2025 Waiting for WebElement Password
+2025-04-04 00:39:28 [main] INFO  PageUtils - 0_39_28_4_4_2025 Contents of Textfield: sampletext
+2025-04-04 00:39:28 [main] INFO  Base - 0_39_28_4_4_2025 Window handles: - 1
+2025-04-04 00:39:29 [main] INFO  Base - 0_39_29_4_4_2025 Closing Browser!!!
+2025-04-04 00:39:29 [main] INFO  Base - 0_39_29_4_4_2025 Setting up Extent Reports on:- 0_39_29_4_4_2025
+2025-04-04 00:39:32 [main] INFO  Base - 0_39_32_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:39:36 [main] INFO  Base - 0_39_36_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:39:36 [main] INFO  Base - 0_39_36_4_4_2025 Retrieving the browser title
+2025-04-04 00:39:37 [main] INFO  PageUtils - 0_39_37_4_4_2025 Waiting for WebElement Textarea
+2025-04-04 00:39:37 [main] INFO  PageUtils - 0_39_37_4_4_2025 Populating Textfield: random text
+2025-04-04 00:39:37 [main] INFO  PageUtils - 0_39_37_4_4_2025 Waiting for WebElement Textarea
+2025-04-04 00:39:37 [main] INFO  PageUtils - 0_39_37_4_4_2025 Contents of Textfield: random text
+2025-04-04 00:39:37 [main] INFO  Base - 0_39_37_4_4_2025 Window handles: - 1
+2025-04-04 00:39:38 [main] INFO  Base - 0_39_38_4_4_2025 Closing Browser!!!
+2025-04-04 00:39:38 [main] INFO  Base - 0_39_38_4_4_2025 Setting up Extent Reports on:- 0_39_38_4_4_2025
+2025-04-04 00:39:41 [main] INFO  Base - 0_39_41_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:39:46 [main] INFO  Base - 0_39_46_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:39:46 [main] INFO  Base - 0_39_46_4_4_2025 Retrieving the browser title
+2025-04-04 00:39:46 [main] INFO  PageUtils - 0_39_46_4_4_2025 Waiting for WebElement Disabled input
+2025-04-04 00:39:46 [main] INFO  PageUtils - 0_39_46_4_4_2025 Is this element displayed: true
+2025-04-04 00:39:46 [main] INFO  PageUtils - 0_39_46_4_4_2025 Waiting for WebElement Disabled input
+2025-04-04 00:39:46 [main] INFO  PageUtils - 0_39_46_4_4_2025 Is this element enabled: false
+2025-04-04 00:39:46 [main] INFO  PageUtils - 0_39_46_4_4_2025 Waiting for WebElement Disabled input
+2025-04-04 00:39:47 [main] INFO  PageUtils - 0_39_47_4_4_2025 Contents of Textfield: 
+2025-04-04 00:39:47 [main] INFO  Base - 0_39_47_4_4_2025 Window handles: - 1
+2025-04-04 00:39:47 [main] INFO  Base - 0_39_47_4_4_2025 Closing Browser!!!
+2025-04-04 00:39:47 [main] INFO  Base - 0_39_47_4_4_2025 Setting up Extent Reports on:- 0_39_47_4_4_2025
+2025-04-04 00:39:50 [main] INFO  Base - 0_39_50_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:39:54 [main] INFO  Base - 0_39_54_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:39:54 [main] INFO  Base - 0_39_54_4_4_2025 Retrieving the browser title
+2025-04-04 00:39:54 [main] INFO  PageUtils - 0_39_54_4_4_2025 Waiting for WebElement Readonly input
+2025-04-04 00:39:54 [main] INFO  PageUtils - 0_39_54_4_4_2025 Is this element displayed: true
+2025-04-04 00:39:54 [main] INFO  PageUtils - 0_39_54_4_4_2025 Waiting for WebElement Readonly input
+2025-04-04 00:39:54 [main] INFO  PageUtils - 0_39_54_4_4_2025 Is this element enabled: true
+2025-04-04 00:39:54 [main] INFO  Base - 0_39_54_4_4_2025 Window handles: - 1
+2025-04-04 00:39:55 [main] INFO  Base - 0_39_55_4_4_2025 Closing Browser!!!
+2025-04-04 00:39:55 [main] INFO  Base - 0_39_55_4_4_2025 Closing Browser...
+2025-04-04 00:39:55 [main] INFO  Base - 0_39_55_4_4_2025 Setting up Extent Reports on:- 0_39_55_4_4_2025
+2025-04-04 00:39:57 [main] INFO  Base - 0_39_57_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:40:02 [main] INFO  Base - 0_40_2_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:40:02 [main] INFO  Base - 0_40_2_4_4_2025 Retrieving the browser title
+2025-04-04 00:40:02 [main] INFO  PageUtils - 0_40_2_4_4_2025 Waiting for WebElement Dropdown (select)
+2025-04-04 00:40:02 [main] INFO  PageUtils - 0_40_2_4_4_2025 Three - Selected from Dropdown List
+2025-04-04 00:40:02 [main] INFO  PageUtils - 0_40_2_4_4_2025 Waiting for WebElement Dropdown (select)
+2025-04-04 00:40:02 [main] INFO  PageUtils - 0_40_2_4_4_2025 The selected item from the dropdown list is: Three
+2025-04-04 00:40:02 [main] INFO  Base - 0_40_2_4_4_2025 Window handles: - 1
+2025-04-04 00:40:03 [main] INFO  Base - 0_40_3_4_4_2025 Closing Browser!!!
+2025-04-04 00:40:03 [main] INFO  Base - 0_40_3_4_4_2025 After All: Test execution completed.
+2025-04-04 00:55:07 [main] INFO  Base - 0_55_7_4_4_2025 Setting up Extent Reports on:- 0_55_7_4_4_2025
+2025-04-04 00:55:17 [main] INFO  Base - 0_55_17_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:55:23 [main] INFO  Base - 0_55_23_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:55:23 [main] INFO  Base - 0_55_23_4_4_2025 Retrieving the browser title
+2025-04-04 00:55:23 [main] INFO  PageUtils - 0_55_23_4_4_2025 Waiting for WebElement Text input
+2025-04-04 00:55:24 [main] INFO  PageUtils - 0_55_24_4_4_2025 Populating Textfield: sampletext
+2025-04-04 00:55:24 [main] INFO  PageUtils - 0_55_24_4_4_2025 Waiting for WebElement Text input
+2025-04-04 00:55:25 [main] INFO  PageUtils - 0_55_25_4_4_2025 Contents of Textfield: sampletext
+2025-04-04 00:55:25 [main] INFO  Base - 0_55_25_4_4_2025 Window handles: - 1
+2025-04-04 00:55:26 [main] INFO  Base - 0_55_26_4_4_2025 Closing Browser!!!
+2025-04-04 00:55:26 [main] INFO  Base - 0_55_26_4_4_2025 Setting up Extent Reports on:- 0_55_26_4_4_2025
+2025-04-04 00:55:31 [main] INFO  Base - 0_55_31_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:55:34 [main] INFO  Base - 0_55_34_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:55:34 [main] INFO  Base - 0_55_34_4_4_2025 Retrieving the browser title
+2025-04-04 00:55:35 [main] INFO  PageUtils - 0_55_35_4_4_2025 Waiting for WebElement Password
+2025-04-04 00:55:35 [main] INFO  PageUtils - 0_55_35_4_4_2025 Populating Textfield: sampletext
+2025-04-04 00:55:35 [main] INFO  PageUtils - 0_55_35_4_4_2025 Waiting for WebElement Password
+2025-04-04 00:55:36 [main] INFO  PageUtils - 0_55_36_4_4_2025 Contents of Textfield: sampletext
+2025-04-04 00:55:36 [main] INFO  Base - 0_55_36_4_4_2025 Window handles: - 1
+2025-04-04 00:55:36 [main] INFO  Base - 0_55_36_4_4_2025 Closing Browser!!!
+2025-04-04 00:55:36 [main] INFO  Base - 0_55_36_4_4_2025 Setting up Extent Reports on:- 0_55_36_4_4_2025
+2025-04-04 00:55:41 [main] INFO  Base - 0_55_41_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:55:46 [main] INFO  Base - 0_55_46_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:55:46 [main] INFO  Base - 0_55_46_4_4_2025 Retrieving the browser title
+2025-04-04 00:55:46 [main] INFO  PageUtils - 0_55_46_4_4_2025 Waiting for WebElement Textarea
+2025-04-04 00:55:47 [main] INFO  PageUtils - 0_55_47_4_4_2025 Populating Textfield: random text
+2025-04-04 00:55:47 [main] INFO  PageUtils - 0_55_47_4_4_2025 Waiting for WebElement Textarea
+2025-04-04 00:55:47 [main] INFO  PageUtils - 0_55_47_4_4_2025 Contents of Textfield: random text
+2025-04-04 00:55:47 [main] INFO  Base - 0_55_47_4_4_2025 Window handles: - 1
+2025-04-04 00:55:48 [main] INFO  Base - 0_55_48_4_4_2025 Closing Browser!!!
+2025-04-04 00:55:48 [main] INFO  Base - 0_55_48_4_4_2025 Setting up Extent Reports on:- 0_55_48_4_4_2025
+2025-04-04 00:55:53 [main] INFO  Base - 0_55_53_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:55:57 [main] INFO  Base - 0_55_57_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:55:57 [main] INFO  Base - 0_55_57_4_4_2025 Retrieving the browser title
+2025-04-04 00:55:57 [main] INFO  PageUtils - 0_55_57_4_4_2025 Waiting for WebElement Disabled input
+2025-04-04 00:55:58 [main] INFO  PageUtils - 0_55_58_4_4_2025 Is this element displayed: true
+2025-04-04 00:55:58 [main] INFO  PageUtils - 0_55_58_4_4_2025 Waiting for WebElement Disabled input
+2025-04-04 00:55:58 [main] INFO  PageUtils - 0_55_58_4_4_2025 Is this element enabled: false
+2025-04-04 00:55:58 [main] INFO  PageUtils - 0_55_58_4_4_2025 Waiting for WebElement Disabled input
+2025-04-04 00:55:58 [main] INFO  PageUtils - 0_55_58_4_4_2025 Contents of Textfield: 
+2025-04-04 00:55:58 [main] INFO  Base - 0_55_58_4_4_2025 Window handles: - 1
+2025-04-04 00:55:59 [main] INFO  Base - 0_55_59_4_4_2025 Closing Browser!!!
+2025-04-04 00:55:59 [main] INFO  Base - 0_55_59_4_4_2025 Setting up Extent Reports on:- 0_55_59_4_4_2025
+2025-04-04 00:56:03 [main] INFO  Base - 0_56_3_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:56:08 [main] INFO  Base - 0_56_8_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:56:08 [main] INFO  Base - 0_56_8_4_4_2025 Retrieving the browser title
+2025-04-04 00:56:08 [main] INFO  PageUtils - 0_56_8_4_4_2025 Waiting for WebElement Readonly input
+2025-04-04 00:56:09 [main] INFO  PageUtils - 0_56_9_4_4_2025 Is this element displayed: true
+2025-04-04 00:56:09 [main] INFO  PageUtils - 0_56_9_4_4_2025 Waiting for WebElement Readonly input
+2025-04-04 00:56:09 [main] INFO  PageUtils - 0_56_9_4_4_2025 Is this element enabled: true
+2025-04-04 00:56:10 [main] INFO  Base - 0_56_10_4_4_2025 Window handles: - 1
+2025-04-04 00:56:11 [main] INFO  Base - 0_56_11_4_4_2025 Closing Browser!!!
+2025-04-04 00:56:11 [main] INFO  Base - 0_56_11_4_4_2025 Closing Browser...
+2025-04-04 00:56:11 [main] INFO  Base - 0_56_11_4_4_2025 Setting up Extent Reports on:- 0_56_11_4_4_2025
+2025-04-04 00:56:15 [main] INFO  Base - 0_56_15_4_4_2025 Chrome Driver is selected.
+2025-04-04 00:56:20 [main] INFO  Base - 0_56_20_4_4_2025 Navigating to: - https://www.selenium.dev/selenium/web/web-form.html
+2025-04-04 00:56:20 [main] INFO  Base - 0_56_20_4_4_2025 Retrieving the browser title
+2025-04-04 00:56:20 [main] INFO  PageUtils - 0_56_20_4_4_2025 Waiting for WebElement Dropdown (select)
+2025-04-04 00:56:21 [main] INFO  PageUtils - 0_56_21_4_4_2025 Three - Selected from Dropdown List
+2025-04-04 00:56:21 [main] INFO  PageUtils - 0_56_21_4_4_2025 Waiting for WebElement Dropdown (select)
+2025-04-04 00:56:21 [main] INFO  PageUtils - 0_56_21_4_4_2025 The selected item from the dropdown list is: Three
+2025-04-04 00:56:21 [main] INFO  Base - 0_56_21_4_4_2025 Window handles: - 1
+2025-04-04 00:56:24 [main] INFO  Base - 0_56_24_4_4_2025 Closing Browser!!!
+2025-04-04 00:56:24 [main] INFO  Base - 0_56_24_4_4_2025 After All: Test execution completed.

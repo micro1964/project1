@@ -1,12 +1,9 @@
 package com.reggy.bdd.stepdefinitions;
 
 import org.testng.AssertJUnit;
-import org.testng.annotations.BeforeClass;
 
 import com.reggy.pages.HomePage;
 
-import io.cucumber.java.Before;
-import io.cucumber.java.BeforeAll;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -16,16 +13,10 @@ public class HomePageSteps {
 	
 	String strInput = "sampletext";
 	String strInput2 = "random text";
-	
-	@Before
-	public void setUp() {
-		System.out.println("XXXXXXXXXXXXXXXXXXXXXXXXX");
-		
-	}
+	String strDropdownItem = "Three";
 	
 	@Given("I am on the application under test")
-	public void i_am_on_the_application_under_test() {
-		 
+	public void i_am_on_the_application_under_test() {		 
 	    AssertJUnit.assertEquals(homePage.getWindowTitle(),"Web form");
 	}
 
@@ -38,20 +29,19 @@ public class HomePageSteps {
 	public void i_can_retrieve_the_contents_typed_into_the_text_input_textfield() {
 		String actualResults = homePage.getTextInputTextFieldContents();
 		AssertJUnit.assertEquals(strInput, actualResults);
-		homePage.closeBrowser();
+		HomePage.closeBrowser();
 	}
 
 	@When("I type in the Password textfield")
 	public void i_type_in_the_password_textfield() {
-		homePage.setPasswordTextField(strInput);
-		
+		homePage.setPasswordTextField(strInput);	
 	}
 
 	@Then("I can retrieve the contents typed into the Password textfield")
 	public void i_can_retrieve_the_contents_typed_into_the_password_textfield() {
 		String actualResults = homePage.getPasswordTextFieldContents();
 		AssertJUnit.assertEquals(strInput, actualResults);
-		homePage.closeBrowser();
+		HomePage.closeBrowser();
 	}
 
 	@When("I type in the TextArea section")
@@ -64,7 +54,7 @@ public class HomePageSteps {
 		String expectedResults ="random text";
 		String actualResults = homePage.getTextAreaFieldContents();
 		AssertJUnit.assertEquals(expectedResults, actualResults);
-		homePage.closeBrowser();
+		HomePage.closeBrowser();
 	}
 
 	@When("I view the DisabledInput textfield")
@@ -81,7 +71,7 @@ public class HomePageSteps {
 	@Then("I cannot retrieve the contents of the textfield")
 	public void i_cannot_retrieve_the_contents_of_the_textfield() {
 		AssertJUnit.assertEquals(true,homePage.getTextFromDisabledInputField().isEmpty());
-		homePage.closeBrowser();
+		HomePage.closeBrowser();
 	}
 
 	@When("I view the ReadOnly textfield")
@@ -98,7 +88,19 @@ public class HomePageSteps {
 	@Then("I can retrieve the contents of the textfield")
 	public void i_can_retrieve_the_contents_of_the_textfield() {
 		AssertJUnit.assertEquals(false,homePage.getTextFromReadOnlyField().isEmpty());
-		homePage.closeBrowser();
+		HomePage.closeBrowser();
+	}
+
+	@When("I select an item from the dropdown list")
+	public void i_select_an_item_from_the_dropdown_list() {
+	    homePage.selectByVisibleText(strDropdownItem);
+	}
+
+	@Then("The item is displayed as selected")
+	public void the_item_is_displayed_as_selected() {
+	    String actualResults = homePage.getSelectedOption();
+	    AssertJUnit.assertEquals(strDropdownItem, actualResults);
+	    HomePage.closeBrowser();
 	}
 
 

@@ -16,13 +16,9 @@ import io.cucumber.java.Scenario;
 
 public class Hooks {
 	
-	//public HomePage homePage;
-	
     @BeforeAll
     public static void before_or_after_all() {
-        System.out.println("Before All: Test execution started.");
-        // ExtentCucumberAdapter will automatically create reports
-        //this.homePage = new HomePage();
+        System.out.println("Before All: Test execution started: "+Base.getCurrentDateAndTime());
     }
 
     @Before
@@ -35,7 +31,6 @@ public class Hooks {
         if (scenario.isFailed()) {
             System.out.println("Scenario failed: " + scenario.getName());
             byte[] screenshotBytes = ((TakesScreenshot) Base.driver).getScreenshotAs(OutputType.BYTES);
-            //scenario.embed(screenshotBytes,"image/png");
             scenario.attach(screenshotBytes, "image/png", "img_"+Base.getCurrentDateAndTime()+".png");
             if(Base.driver!=null) {
             	Base.closeBrowser();

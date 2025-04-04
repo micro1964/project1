@@ -28,4 +28,7 @@ Feature: Web Objects Under Test
     Then The ReadOnly textfield is disabled
     And I can retrieve the contents of the textfield
     
+  Scenario: Interaction with the Dropdown list
+  	When I select an item from the dropdown list
+  	Then The item is displayed as selected
   
